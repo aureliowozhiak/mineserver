@@ -542,6 +542,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2023-11-21 11:57:00 +0000",
       "minecraft:skeleton": "2022-12-20 16:59:35 +0000",
       "minecraft:phantom": "2023-01-01 15:28:22 +0000",
       "minecraft:zombified_piglin": "2022-12-29 13:18:24 +0000",
@@ -4425,6 +4426,24 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2023-11-20 18:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-11-21 11:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-11-21 11:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-11-21 11:54:05 +0000"
     },
     "done": true
   },
