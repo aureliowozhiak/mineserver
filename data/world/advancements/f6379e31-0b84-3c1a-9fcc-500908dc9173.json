@@ -4531,5 +4531,11 @@
     },
     "done": true
   },
-  "DataVersion": 3578
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-12-09 01:41:44 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
 }
