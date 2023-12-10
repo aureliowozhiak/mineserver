@@ -8,6 +8,7 @@ services:
     environment:
       EULA: "TRUE"
       ONLINE_MODE: "FALSE"
+      WHITE_LIST: "TRUE"
     dns: 8.8.8.8
     volumes:
       # attach the relative directory 'data' to the container's /data path
