@@ -1,28 +1,30 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2023-01-02 17:06:10 +0000",
       "minecraft:cold_ocean": "2022-12-22 16:51:21 +0000",
-      "minecraft:beach": "2022-12-20 16:55:38 +0000",
       "minecraft:old_growth_pine_taiga": "2022-12-20 16:51:04 +0000",
-      "minecraft:dark_forest": "2023-01-04 16:41:51 +0000",
       "minecraft:forest": "2022-12-23 21:02:25 +0000",
       "minecraft:taiga": "2022-12-20 16:49:03 +0000",
       "minecraft:deep_ocean": "2023-04-30 17:59:44 +0000",
-      "minecraft:river": "2022-12-20 16:49:05 +0000",
-      "minecraft:snowy_plains": "2022-12-20 16:42:25 +0000",
       "minecraft:lush_caves": "2022-12-20 17:11:20 +0000",
-      "minecraft:snowy_taiga": "2022-12-20 16:48:57 +0000",
-      "minecraft:dripstone_caves": "2022-12-23 20:42:55 +0000",
-      "minecraft:old_growth_birch_forest": "2022-12-29 15:33:17 +0000",
       "minecraft:eroded_badlands": "2023-01-02 17:07:26 +0000",
       "minecraft:desert": "2023-01-02 17:04:54 +0000",
       "minecraft:frozen_river": "2022-12-23 20:25:56 +0000",
       "minecraft:windswept_forest": "2022-12-23 20:42:59 +0000",
+      "minecraft:birch_forest": "2022-12-28 23:12:23 +0000",
+      "minecraft:windswept_hills": "2023-12-10 07:02:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-12-23 20:20:33 +0000",
+      "minecraft:badlands": "2023-01-02 17:06:10 +0000",
+      "minecraft:beach": "2022-12-20 16:55:38 +0000",
+      "minecraft:dark_forest": "2023-01-04 16:41:51 +0000",
+      "minecraft:river": "2022-12-20 16:49:05 +0000",
+      "minecraft:snowy_plains": "2022-12-20 16:42:25 +0000",
+      "minecraft:snowy_taiga": "2022-12-20 16:48:57 +0000",
+      "minecraft:dripstone_caves": "2022-12-23 20:42:55 +0000",
+      "minecraft:old_growth_birch_forest": "2022-12-29 15:33:17 +0000",
       "minecraft:swamp": "2022-12-28 20:17:20 +0000",
       "minecraft:meadow": "2023-04-30 19:08:47 +0000",
-      "minecraft:birch_forest": "2022-12-28 23:12:23 +0000",
-      "minecraft:old_growth_spruce_taiga": "2022-12-23 20:20:33 +0000",
+      "minecraft:windswept_gravelly_hills": "2023-12-10 07:02:52 +0000",
       "minecraft:savanna": "2023-01-02 17:07:48 +0000",
       "minecraft:plains": "2022-12-23 21:10:49 +0000"
     },
@@ -4446,15 +4448,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-12-09 13:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2023-12-09 13:43:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
-      "has_bamboo": "2023-12-09 13:43:08 +0000"
+      "has_planks": "2023-12-10 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-12-10 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2023-12-10 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2023-12-10 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-12-10 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2023-12-10 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2023-12-10 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2023-12-10 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2023-12-10 07:36:54 +0000"
     },
     "done": true
   },
