@@ -27,6 +27,7 @@
       "minecraft:flower_forest": "2023-03-04 14:11:41 +0000",
       "minecraft:beach": "2022-12-20 16:55:55 +0000",
       "minecraft:dark_forest": "2022-12-26 22:10:01 +0000",
+      "minecraft:stony_peaks": "2023-12-13 19:21:03 +0000",
       "minecraft:sparse_jungle": "2023-01-25 23:52:36 +0000",
       "minecraft:river": "2022-12-20 16:49:37 +0000",
       "minecraft:lukewarm_ocean": "2023-01-25 23:55:39 +0000",
@@ -271,6 +272,7 @@
       "cooked_chicken": "2023-01-17 00:13:16 +0000",
       "potato": "2022-12-28 23:04:10 +0000",
       "mushroom_stew": "2022-12-23 02:02:18 +0000",
+      "pumpkin_pie": "2023-12-10 17:44:24 +0000",
       "carrot": "2023-01-05 19:08:23 +0000"
     },
     "done": false
@@ -5405,6 +5407,96 @@
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2023-12-10 16:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 17:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 17:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 17:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-12-10 17:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 18:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 18:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 18:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-12-10 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-12-13 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2023-12-13 18:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-12-13 18:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-12-13 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2023-12-13 19:26:50 +0000"
     },
     "done": true
   },
