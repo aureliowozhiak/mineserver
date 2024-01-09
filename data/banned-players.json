@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "e24b3997-aa1e-340a-9ae6-8cd263425225",
+    "name": "Cagalhao",
+    "created": "2023-12-10 17:33:10 +0000",
+    "source": "aureliowozhiak",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "973f6867-ef5a-35dd-a2b9-fb4ef2bb65ba",
+    "name": "batatovsky",
+    "created": "2023-12-10 17:33:30 +0000",
+    "source": "aureliowozhiak",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "9b93c9e1-3187-377b-b90e-f3e2c620ef98",
+    "name": "GaboExtreme",
+    "created": "2023-12-10 17:33:19 +0000",
+    "source": "aureliowozhiak",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
